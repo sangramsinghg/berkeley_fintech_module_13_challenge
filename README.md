@@ -1,5 +1,6 @@
 # berkeley_fintech_module_13_challenge
 Berkeley Fintech Module 13 Challenge
+Neural Networks
 
 Original Model Results
 268/268 - 0s - loss: 0.5554 - accuracy: 0.7290
